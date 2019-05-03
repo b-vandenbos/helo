@@ -5,6 +5,7 @@ import routes from './routes';
 import Nav from './components/Nav/Nav';
 
 function App() {
+  
     return (
       <HashRouter>
         <div className="App">
